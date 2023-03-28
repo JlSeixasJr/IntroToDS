@@ -2,12 +2,6 @@
 
 
 ```python
-import warnings
-warnings.simplefilter(action='ignore')
-```
-
-
-```python
 import pandas as pd
 
 ratings = pd.read_csv("https://s3-us-west-2.amazonaws.com/recommender-tutorial/ratings.csv")
