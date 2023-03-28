@@ -1,13 +1,5 @@
 # Introduction to Python
 
-## Information
-
-### Packages 
-* Numpy
-* Matplotlib
-* Pandas 
-* sklearn
-* seaborn
 
 
 ```python
