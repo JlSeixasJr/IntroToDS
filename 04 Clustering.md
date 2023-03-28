@@ -17,7 +17,7 @@ plt.show()
 
 
     
-![png](output_2_0.png)
+![png](images/04/output_2_0.png)
     
 
 
@@ -54,7 +54,7 @@ y
 
 5- Repeat steps 2,3 and 4 until all points converge and cluster centers stop moving.
 
-<img src="kmeans.gif">
+<img src="images/04/kmeans.gif">
 
 ## Euclidean Distance
 
@@ -93,7 +93,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](images/04/output_12_0.png)
     
 
 
@@ -119,7 +119,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![png](images/04/output_14_0.png)
     
 
 
@@ -135,7 +135,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](images/04/output_15_0.png)
     
 
 
@@ -151,13 +151,13 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](images/04/output_16_0.png)
     
 
 
 ## DBScan
 
-<img src="dbscan.png">
+<img src="images/04/dbscan.png">
 
 
 ```python
@@ -177,7 +177,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](images/04/output_19_0.png)
     
 
 
@@ -426,7 +426,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](images/04/output_24_0.png)
     
 
 
@@ -444,7 +444,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](images/04/output_26_0.png)
     
 
 
@@ -462,7 +462,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](images/04/output_28_0.png)
     
 
 
@@ -480,7 +480,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+![png](images/04/output_30_0.png)
     
 
 
@@ -508,13 +508,8 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](images/04/output_32_0.png)
     
 
 
 http://infolab.stanford.edu/~ullman/mmds/ch7.pdf
-
-
-```python
-
-```
