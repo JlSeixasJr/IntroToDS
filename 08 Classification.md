@@ -1,9 +1,5 @@
 # Classification
 
-**Regression**: Represent the distribution as line. (Continuos)
-
-**Classification**: Separate the data into classes.
-
 
 ```python
 import warnings
@@ -98,19 +94,6 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -237,19 +220,6 @@ dfTest
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -588,19 +558,6 @@ dfTest
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -919,18 +876,8 @@ plot_confusion_matrix(dum, xTest, yTest)
 
 
     
-![png](output_11_1.png)
+![png](images/08/output_11_1.png)
     
-
-
-
-```python
-import subprocess
-import sys
-
-subprocess.check_call([sys.executable, "-m", "pip", "install", "mlxtend"])
-```
-
 
 ```python
 from mlxtend.plotting import plot_decision_regions
@@ -949,7 +896,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](images/08/output_13_0.png)
     
 
 
@@ -992,7 +939,7 @@ plot_confusion_matrix(knn, xTest, yTest)
 
 
     
-![png](output_15_1.png)
+![png](images/08/output_15_1.png)
     
 
 
@@ -1021,7 +968,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](images/08/output_17_0.png)
     
 
 
@@ -1201,7 +1148,7 @@ plot_confusion_matrix(lr, xTest, yTest)
 
 
     
-![png](output_23_1.png)
+![png](images/08/output_23_1.png)
     
 
 
@@ -1257,7 +1204,7 @@ plot_confusion_matrix(gnb, xTest, yTest)
 
 
     
-![png](output_27_1.png)
+![png](images/08/output_27_1.png)
     
 
 
@@ -1311,7 +1258,7 @@ plot_confusion_matrix(knn, xTest, yTest)
 
 
     
-![png](output_31_1.png)
+![png](images/08/output_31_1.png)
     
 
 
@@ -1402,7 +1349,7 @@ plot_confusion_matrix(knn_model, xTest, yTest)
 
 
     
-![png](output_37_1.png)
+![png](images/08/output_37_1.png)
     
 
 
