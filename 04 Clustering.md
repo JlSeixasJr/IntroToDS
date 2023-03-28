@@ -188,7 +188,7 @@ plt.show()
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv('Mall_Customers.csv')
+df = pd.read_csv('files/Mall_Customers.csv')
 df
 ```
 
