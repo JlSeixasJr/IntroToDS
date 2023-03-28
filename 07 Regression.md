@@ -15,19 +15,6 @@ fuel.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -160,8 +147,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 from sklearn.model_selection import train_test_split
 
-#Vector (size, 0) (size,) (size, None)
-#Matrix (size, 1)
 x = fuel['minutes'].values.reshape(-1, 1)
 y = fuel['dist']
 
@@ -225,7 +210,7 @@ plt.plot(interval, yInterval, color='r')
 
 
     
-![png](output_7_1.png)
+![png](images/07/output_7_1.png)
     
 
 
@@ -322,19 +307,6 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -390,19 +362,6 @@ df.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -488,7 +447,7 @@ sns.pairplot(df, kind='reg')
 
 
     
-![png](output_17_2.png)
+![png](images/07/output_17_2.png)
     
 
 
@@ -513,7 +472,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](images/07/output_18_0.png)
     
 
 
@@ -573,7 +532,7 @@ ax.set_zlabel('y')
 
 
     
-![png](output_21_2.png)
+![png](images/07/output_21_2.png)
     
 
 
@@ -593,7 +552,7 @@ anim.save('3d_animation.gif', dpi=80, writer='imagemagick')
     MovieWriter imagemagick unavailable; using Pillow instead.
 
 
-<img src="3d_animation.gif">
+<img src="images/07/3d_animation.gif">
 
 ### Polynomial Regression
 
@@ -672,10 +631,7 @@ print(model6.coef_)
       5.92636544e-06  8.13648090e-05  2.74633179e-05  5.94795243e-06]
 
 
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_ridge.py:157: LinAlgWarning: Ill-conditioned matrix (rcond=3.03742e-19): result may not be accurate.
-      return linalg.solve(A, Xy, sym_pos=True, overwrite_a=True).T
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/sklearn/linear_model/_coordinate_descent.py:648: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 8.507e+02, tolerance: 1.272e+02
-      coef_, l1_reg, l2_reg, X, y, max_iter, tol, rng, random, positive
+
 
 
 
@@ -707,9 +663,6 @@ ax.set_ylabel('x2')
 ax.set_zlabel('y')
 ```
 
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:16: MatplotlibDeprecationWarning: Axes3D(fig) adding itself to the figure is deprecated since 3.4. Pass the keyword argument auto_add_to_figure=False and use fig.add_axes(ax) to suppress this warning. The default value of auto_add_to_figure will change to False in mpl3.5 and True values will no longer work in 3.6.  This is consistent with other Axes classes.
-      app.launch_new_instance()
-
 
 
 
@@ -720,7 +673,7 @@ ax.set_zlabel('y')
 
 
     
-![png](output_28_2.png)
+![png](images/07/output_28_2.png)
     
 
 
@@ -735,7 +688,7 @@ anim = FuncAnimation(fig, update, frames=range(361), interval=33)
 anim.save('3d_model6.gif', dpi=80, writer='imagemagick')
 ```
 
-<img src="3d_model6.gif">
+<img src="images/07/3d_model6.gif">
 
 
 ```python
