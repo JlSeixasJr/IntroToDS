@@ -254,7 +254,7 @@ sns.heatmap(fuel.corr(), annot=True)
 
 
     
-![png](output_10_1.png)
+![png](images/07/output_10_1.png)
     
 
 
