@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to Python
 
 ## Information
 
@@ -8,19 +8,6 @@
 * Pandas 
 * sklearn
 * seaborn
-
-### Contact 
-
-Email: jlseixasjr@inf.elte.hu <br>
-Room: 7.33 Northern Building
-
-### Dataset websites
-* http://lib.stat.cmu.edu/datasets/
-* https://www.kaggle.com/
-* https://www.datasetlist.com/
-* https://archive.ics.uci.edu/ml/index.php
-
-## Comments
 
 
 ```python
