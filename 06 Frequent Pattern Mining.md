@@ -3,7 +3,6 @@
 ```python
 import numpy as np
 import pandas as pd
-#mlxtend
 
 #df = pd.read_csv('frequent.csv', sep=',')
 df = pd.read_csv('Untitled.csv', sep=',') #Group A
