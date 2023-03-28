@@ -529,9 +529,6 @@ myArray
 myArray[2]
 ```
 
-
-
-
     3
 
 
@@ -540,9 +537,6 @@ myArray[2]
 ```python
 myArray[-1]
 ```
-
-
-
 
     5
 
@@ -555,8 +549,6 @@ myMatrix
 ```
 
 
-
-
     array([[1, 2, 3],
            [4, 5, 6],
            [7, 8, 9]])
@@ -567,8 +559,6 @@ myMatrix
 ```python
 myMatrix[1,2]
 ```
-
-
 
 
     6
@@ -790,10 +780,6 @@ nanArray = myArray / myArray
 nanArray
 ```
 
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:2: RuntimeWarning: invalid value encountered in true_divide
-      
-
-
 
 
 
@@ -805,11 +791,6 @@ nanArray
 ```python
 nanArray == 'nan'
 ```
-
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:1: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
-      """Entry point for launching an IPython kernel.
-
-
 
 
 
@@ -861,9 +842,6 @@ np.isnan(nanArray)
 1 / myArray
 ```
 
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:2: RuntimeWarning: divide by zero encountered in true_divide
-      
-
 
 
 
@@ -905,10 +883,6 @@ np.cos(myArray)
 ```python
 np.log(myArray)
 ```
-
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:1: RuntimeWarning: divide by zero encountered in log
-      """Entry point for launching an IPython kernel.
-
 
 
 
