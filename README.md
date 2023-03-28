@@ -3,11 +3,12 @@
 ## Information
 
 ### Packages 
-* Numpy
-* Matplotlib
-* Pandas 
+* numpy
+* matplotlib
+* pandas 
 * sklearn
 * seaborn
+* mlxtend
 
 ### Dataset websites
 * http://lib.stat.cmu.edu/datasets/
