@@ -87,7 +87,7 @@ imgplot
 
 
     
-![png](image/03/output_4_1.png)
+![png](images/03/output_4_1.png)
     
 
 
@@ -129,7 +129,7 @@ plt.plot(x,y)
 
 
     
-![png](image/03/output_8_1.png)
+![png](images/03/output_8_1.png)
     
 
 
@@ -159,7 +159,7 @@ plt.title(title, fontsize=16)
 
 
     
-![png](image/03/output_9_1.png)
+![png](images/03/output_9_1.png)
     
 
 
@@ -196,7 +196,7 @@ plt.show()
 
 
     
-![png](image/03/output_10_0.png)
+![png](images/03/output_10_0.png)
     
 
 
@@ -218,7 +218,7 @@ plt.plot(x, 3*x+6, '*')
 
 
     
-![png](image/03/output_11_1.png)
+![png](images/03/output_11_1.png)
     
 
 
@@ -238,7 +238,7 @@ plt.plot(x, 3*x+6, linestyle = 'dotted')
 
 
     
-![png](image/03/output_12_1.png)
+![png](images/03/output_12_1.png)
     
 
 
@@ -258,7 +258,7 @@ plt.plot(x, 3*x+6, linestyle = 'dotted', color = (1.0, 0.8, 0.2)) #RGB -> (1.0, 
 
 
     
-![png](image/03/output_13_1.png)
+![png](images/03/output_13_1.png)
     
 
 
@@ -277,7 +277,7 @@ plt.axis([10, 0, 1.0, -1.0]) #[xmin, xmax, ymin, ymax]
 
 
     
-![png](image/03/output_14_1.png)
+![png](images/03/output_14_1.png)
     
 
 
@@ -296,7 +296,7 @@ plt.axis([0, 10, -2.0, 2.0])
 
 
     
-![png](image/03/output_15_1.png)
+![png](images/03/output_15_1.png)
     
 
 
@@ -318,7 +318,7 @@ plt.ylabel('y-axis')
 
 
     
-![png](image/03/output_17_1.png)
+![png](images/03/output_17_1.png)
     
 
 
@@ -343,7 +343,7 @@ plt.ylabel('cos(x)')
 
 
     
-![png](image/03/output_18_1.png)
+![png](images/03/output_18_1.png)
     
 
 
@@ -365,7 +365,7 @@ plt.legend()
 
 
     
-![png](image/03/output_19_1.png)
+![png](images/03/output_19_1.png)
     
 
 
@@ -389,7 +389,7 @@ plt.scatter(features[2], features[3], alpha=0.2, s=100, c=iris.target, cmap='vir
 
 
     
-![png](image/03/output_21_1.png)
+![png](images/03/output_21_1.png)
     
 
 
@@ -411,7 +411,7 @@ plt.show()
 
 
     
-![png](image/03/output_24_0.png)
+![png](images/03/output_24_0.png)
     
 
 
@@ -432,7 +432,7 @@ plt.show()
 
 
     
-![png](image/03/output_25_0.png)
+![png](images/03/output_25_0.png)
     
 
 
@@ -451,7 +451,7 @@ plt.show()
 
 
     
-![png](image/03/output_26_0.png)
+![png](images/03/output_26_0.png)
     
 
 
@@ -471,7 +471,7 @@ plt.show()
 
 
     
-![png](image/03/output_28_0.png)
+![png](images/03/output_28_0.png)
     
 
 
@@ -488,7 +488,7 @@ plt.show()
 
 
     
-![png](image/03/output_30_0.png)
+![png](images/03/output_30_0.png)
     
 
 
@@ -502,7 +502,7 @@ plt.show()
 
 
     
-![png](image/03/output_32_0.png)
+![png](images/03/output_32_0.png)
     
 
 
@@ -530,7 +530,7 @@ plt.plot(t, y2, 'r--')
 
 
     
-![png](image/03/output_34_1.png)
+![png](images/03/output_34_1.png)
     
 
 
@@ -559,7 +559,7 @@ plt.plot(t, y3, 'g*')
 
 
     
-![png](image/03/output_35_1.png)
+![png](images/03/output_35_1.png)
     
 
 
@@ -583,13 +583,11 @@ a[1,1].set_title('Log10')
 plt.show()
 ```
 
-    /Users/joseluis/opt/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:13: RuntimeWarning: divide by zero encountered in log10
-      del sys.path[0]
 
 
 
     
-![png](image/03/output_36_1.png)
+![png](images/03/output_36_1.png)
     
 
 
@@ -614,7 +612,7 @@ imgplot
 
 
     
-![png](image/03/output_38_1.png)
+![png](images/03/output_38_1.png)
     
 
 
@@ -651,7 +649,7 @@ plt.imshow(img)
 
 
     
-![png](image/03/output_42_1.png)
+![png](images/03/output_42_1.png)
     
 
 
@@ -700,7 +698,7 @@ plt.show()
 
 
     
-![png](image/03/output_43_0.png)
+![png](images/03/output_43_0.png)
     
 
 
@@ -723,5 +721,5 @@ for i, r in enumerate(range(8)):
 
 
     
-![png](image/03/output_44_0.png)
+![png](images/03/output_44_0.png)
     
