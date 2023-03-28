@@ -83,10 +83,7 @@ MyVar
 
     1
 
-
     10
-
-
 
 
 ```python
@@ -128,10 +125,6 @@ x
 
     Value of x is  5
     Value of x is  1
-
-
-
-
 
     1
 
@@ -787,9 +780,3 @@ while i<28:
     22
     24
     28
-
-
-
-```python
-
-```
