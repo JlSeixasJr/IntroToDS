@@ -1,6 +1,10 @@
 # Introduction to Data Science
 
-## Information
+## Personal information
+
+#### José Luis Seixas Junior
+#### email: jlseixasjr@inf.elte.hu
+#### Room: 7.33
 
 ### Packages 
 * numpy
