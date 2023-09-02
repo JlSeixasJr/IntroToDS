@@ -4,7 +4,7 @@
 
 #### José Luis Seixas Junior
 #### email: jlseixasjr@inf.elte.hu
-#### Room: 7.33
+#### Room: 7.26
 
 ### Packages 
 * numpy
@@ -20,17 +20,17 @@
 | :-: | :- | 
 | Set 11  | Before classes |
 | Set 18 | Introduction |
-| Set 25 | Numpy |
-| Oct 02 | Matplotlib |
-| Oct 09 | Clustering |
-| Oct 16 | Pandas |
-| Oct 23 | Frequent Pattern Mining |
-| Oct 30 | **Autumn Break** |
-| Nov 06 | Regression |
-| Nov 13 | Classification |
-| Nov 20 | Recommender Systems |
-| Nov 27 | Preprocessing |
-| Dec 04 | Consultation |
+| Set 25 | **I will check it** |
+| Oct 02 | Numpy |
+| Oct 09 | Matplotlib |
+| Oct 16 | Clustering |
+| Oct 23 | Pandas |
+| Oct 30 | Frequent Pattern Mining |
+| Nov 06 | **Autumn Break** |
+| Nov 13 | Regression |
+| Nov 20 | Classification |
+| Nov 27 | Recommender Systems |
+| Dec 04 | Preprocessing |
 | Dec 11 | Consultation |
 
 ### Dataset websites
