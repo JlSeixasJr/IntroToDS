@@ -4,7 +4,7 @@
 
 #### José Luis Seixas Junior
 #### email: jlseixasjr@inf.elte.hu
-#### Room: 7.26
+#### Room: 7.25
 
 ### Packages 
 * numpy
