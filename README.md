@@ -18,19 +18,19 @@
 
 | Reference Week | Practical |
 | :-: | :- | 
-| Set 11  | Before classes |
-| Set 18 | Introduction |
+| Set 11  | Introduction |
+| Set 18 | Numpy |
 | Set 25 | **I will check it** |
-| Oct 02 | Numpy |
-| Oct 09 | Matplotlib |
-| Oct 16 | Clustering |
-| Oct 23 | Pandas |
-| Oct 30 | Frequent Pattern Mining |
+| Oct 02 | Matplotlib |
+| Oct 09 | Clustering |
+| Oct 16 | Pandas |
+| Oct 23 | Frequent Pattern Mining |
+| Oct 30 | Regression |
 | Nov 06 | **Autumn Break** |
-| Nov 13 | Regression |
-| Nov 20 | Classification |
-| Nov 27 | Recommender Systems |
-| Dec 04 | Preprocessing |
+| Nov 13 | Classification |
+| Nov 20 | Recommender Systems |
+| Nov 27 | Preprocessing |
+| Dec 04 | Consultation |
 | Dec 11 | Consultation |
 
 ### Dataset websites
