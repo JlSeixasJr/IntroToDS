@@ -25,8 +25,8 @@
 | Oct 09 | Clustering |
 | Oct 16 | Pandas |
 | Oct 23 | Frequent Pattern Mining |
-| Oct 30 | Regression |
-| Nov 06 | **Autumn Break** |
+| Oct 30 | **Autumn Break** |
+| Nov 06 | Regression |
 | Nov 13 | Classification |
 | Nov 20 | Recommender Systems |
 | Nov 27 | Preprocessing |
