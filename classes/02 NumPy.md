@@ -47,7 +47,7 @@ npMatrix
 
 
 ```python
-#range(n) -> 0 1 2 3 4 ... n
+#range(n) -> 0 1 2 3 4 ... n-1
 np.arange(0, 10)
 ```
 
