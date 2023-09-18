@@ -20,7 +20,7 @@
 | :-: | :- | 
 | Set 11  | Introduction |
 | Set 18 | Numpy |
-| Set 25 | **I will check it** |
+| Set 25 | **No Practical** | -> **Important:** Lectures will still happen!!!!!
 | Oct 02 | Matplotlib |
 | Oct 09 | Clustering |
 | Oct 16 | Pandas |
