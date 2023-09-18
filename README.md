@@ -24,13 +24,13 @@
 | Oct 02 | Matplotlib |
 | Oct 09 | Clustering |
 | Oct 16 | Pandas |
-| Oct 23 | Frequent Pattern Mining |
+| Oct 23 | **National Holiday** |
 | Oct 30 | **Autumn Break** |
-| Nov 06 | Regression |
-| Nov 13 | Classification |
-| Nov 20 | Recommender Systems |
-| Nov 27 | Preprocessing |
-| Dec 04 | Consultation |
+| Nov 06 | Frequent Pattern Mining |
+| Nov 13 | Regression |
+| Nov 20 | Classification |
+| Nov 27 | Recommender Systems |
+| Dec 04 | Preprocessing |
 | Dec 11 | Consultation |
 
 ### Dataset websites
