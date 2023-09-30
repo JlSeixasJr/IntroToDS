@@ -619,9 +619,9 @@ imgplot
 
 ```python
 # Pillow
-from PIL import image
+from PIL import Image
 
-imgae = Image.open('newFigure.png')
+image = Image.open('newFigure.png')
 image.show()
 ```
 
