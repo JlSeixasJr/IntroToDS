@@ -87,7 +87,7 @@ imgplot
 
 
     
-![png](images/output_4_1.png)
+![png](images/03/output_4_1.png)
     
 
 
