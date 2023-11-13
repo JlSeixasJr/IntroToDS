@@ -27,10 +27,10 @@
 | Oct 23 | **National Holiday** |
 | Oct 30 | **Autumn Break** |
 | Nov 06 | Classification |
-| Nov 13 | Recommender Systems |
-| Nov 20 | Preprocessing |
-| Nov 27 | Pandas |
-| Dec 04 | Frequent Pattern Mining |
+| Nov 13 | Pandas |
+| Nov 20 | Recommender Systems |
+| Nov 27 | Frequent Pattern Mining |
+| Dec 04 | Preprocessing |
 | Dec 11 | Consultation |
 
 ### Dataset websites
