@@ -2286,7 +2286,7 @@ ax.grid()
 
 
     
-![png](output_51_0.png)
+![png](images/10/output_51_0.png)
     
 
 
@@ -2309,6 +2309,6 @@ ax.grid()
 
 
     
-![png](output_52_0.png)
+![png](images/10/output_52_0.png)
     
 
