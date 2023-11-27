@@ -29,8 +29,8 @@
 | Nov 06 | Classification |
 | Nov 13 | Pandas |
 | Nov 20 | Recommender Systems |
-| Nov 27 | Frequent Pattern Mining |
-| Dec 04 | Preprocessing |
+| Nov 27 | Preprocessing |
+| Dec 04 | Frequent Pattern Mining |
 | Dec 11 | Consultation |
 
 ### Dataset websites
