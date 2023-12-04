@@ -4,8 +4,8 @@
 import numpy as np
 import pandas as pd
 
-#df = pd.read_csv('frequent.csv', sep=',')
-df = pd.read_csv('Untitled.csv', sep=',') #Group A
+df = pd.read_csv('frequent.csv', sep=',')
+#df = pd.read_csv('Untitled.csv', sep=',') #Group A
 df
 ```
 
